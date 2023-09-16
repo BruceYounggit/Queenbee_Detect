@@ -1,0 +1,11 @@
+This datasets is just a demo which lacks of data, but it is still enough to be a demo demonstrating how the yolov8 model detect novel objects.
+
+# number of datasets: 49
+
+# train:test = 6:1
+
+# classification
+    0: queen
+    1: worker
+
+
