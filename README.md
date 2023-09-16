@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Queen bee detection
 As we all know, queen bee is relatively hard to be detected among a giant group of worker bees, because of 
 the similar appearance and their tiny size for human beings. So if we wanna detect the queen bee, there are a
@@ -40,3 +41,7 @@ input images and videos, and waiting for a while, the corresponding results will
 demonstrated.
 
 2023/09/16, written by Bruce Young.
+=======
+# Queenbee_Detect
+From a group of worker bees, find the queen bee
+>>>>>>> e87345269bc67bce0f56b7883b28552306ce2538
